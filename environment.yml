@@ -13,3 +13,5 @@ dependencies:
   - ipython
   - jupyter
   - scikit-imag
+  - pip:
+    - pympler
