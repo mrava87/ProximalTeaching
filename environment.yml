@@ -12,6 +12,7 @@ dependencies:
   - pyproximal
   - ipython
   - jupyter
-  - scikit-imag
+  - scikit-image
   - pip:
     - pympler
+    - pynufft
