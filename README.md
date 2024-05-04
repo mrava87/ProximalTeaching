@@ -8,7 +8,7 @@ at [Luna Innovations](http://lunainc.com).
 ### Lectures
 The main teaching material is available in the ``lectures`` directory the form of Jupyter slides, divided into 3 separate lectures. 
 
-Simply type ``jupyter nbconvert Lecture*.ipynb --output-dir='./html' --to slides --post serve --embed-images`` (where ``*=1,2,3``) to obtain the slides in html format. Note that the html version of the slides is also already provided in the ``html`` subdirectory.
+Simply type ``jupyter nbconvert Lecture*.ipynb --output-dir='../html' --to slides --post serve --embed-images`` (where ``*=1,2,3``) to obtain the slides in html format. Note that the html version of the slides is also already provided in the ``html`` subdirectory.
 
 ### Exercises
 Alongside the lecture slides, a number of exercises will be presented during the course. These are in the form of Jupyter notebooks and can be accessed from the ``notebooks`` directory.

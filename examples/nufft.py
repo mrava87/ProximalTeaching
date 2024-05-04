@@ -5,6 +5,23 @@ from pylops import LinearOperator
 
 
 class NonUniformFFT(LinearOperator):
+    """Non-uniform FFT operator.
+
+    Performs non-uniform FTT and IFFT using ``pynufft``
+
+    Parameters
+    ----------
+    nt : :obj:`int`
+        Number of time samples
+    f : :obj:`numpy.ndarray`
+        List of frequency along which the non-uniform FTT is computed (must be 
+        normalized between -pi to pi)
+    dtype : :obj:`str`, optional
+        Type of elements in input array.
+    name : :obj:`str`, optional
+        Name of operator (to be used by :func:`pylops.utils.describe.describe`)
+
+    """
     def __init__(self, nt, f, dtype="complex128", name="F"):
         self.nt = nt
         self.nufftobj = NUFFT()
