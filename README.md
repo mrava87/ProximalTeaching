@@ -20,7 +20,7 @@ Alongside the lecture slides, a number of exercises will be presented during the
 | Lecture 1                       | [Link](lectures/Lecture1.ipynb)     |
 | Lecture 2                       | [Link](notebooks/Lecture2.ipynb)    |
 | Lab1: FFTLinOp.ipynb            | [Link](examples/FFTLinOp.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/ProximalTeaching/blob/main/examples/FFTLinOp.ipynb)  |
-| Lab2: BasisPursuit.ipynb            | [Link](examples/FFTLinOp.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyLops/mrava87/ProximalTeaching/blob/main/examples/BasisPursuit.ipynb)  |
+| Lab2: BasisPursuit.ipynb            | [Link](examples/FFTLinOp.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/ProximalTeaching/blob/main/examples/BasisPursuit.ipynb)  |
 
 
 ## Getting started
