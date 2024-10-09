@@ -30,18 +30,18 @@ def FFT_memory():
 
     mem_DFT = []
     mem_FFT = []
-    mem_Dop = []
+    mem_Fop = []
     for n in nn:
         x = np.arange(n)
         _, D = DFT(x)
-        Dop = FFT(n, engine='scipy', real=True)
+        Fop = FFT(n, engine='scipy', real=True)
         mem_DFT.append(asizeof.asizeof(D))
         mem_FFT.append(asizeof.asizeof(n))
-        mem_Dop.append(asizeof.asizeof(Dop))
+        mem_Fop.append(asizeof.asizeof(Fop))
 
     plt.figure(figsize=(6, 4))
     plt.semilogy(nn, mem_DFT, '.-k', label='DFT')
     plt.semilogy(nn, mem_FFT, '.-r', label='FFT')
-    plt.semilogy(nn, mem_Dop, '.-g', label='FFTop')
+    plt.semilogy(nn, mem_Fop, '.-g', label='FFTop')
     plt.legend()
     plt.title('Memory comparison')

@@ -21,6 +21,9 @@ Alongside the lecture slides, a number of exercises will be presented during the
 | Lecture 2                       | [Link](notebooks/Lecture2.ipynb)    |
 | Lab1: FFTLinOp.ipynb            | [Link](examples/FFTLinOp.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/ProximalTeaching/blob/main/examples/FFTLinOp.ipynb)  |
 | Lab2: BasisPursuit.ipynb            | [Link](examples/FFTLinOp.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/ProximalTeaching/blob/main/examples/BasisPursuit.ipynb)  |
+| Lab3: SignalDenoising.ipynb            | [Link](examples/SignalDenoising.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/ProximalTeaching/blob/main/examples/SignalDenoising.ipynb)  |
+| Lab4: MRIReconstruction.ipynb            | [Link](examples/MRIReconstruction.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/ProximalTeaching/blob/main/examples/MRIReconstruction.ipynb)  |
+| Lab5: Nonlinear.ipynb            | [Link](examples/Nonlinear.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/ProximalTeaching/blob/main/examples/Nonlinear.ipynb)  |
 
 
 ## Getting started
