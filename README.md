@@ -15,11 +15,12 @@ Alongside the lecture slides, a number of exercises will be presented during the
 
 ## Teaching Schedule
 
-| Session                         |            Link to material         |
-|---------------------------------|-------------------------------------|
-| L1: Basic concepts              | [Link](lectures/Lecture1.ipynb)     |
-| L2: Proximal operators          | [Link](notebooks/Lecture2.ipynb)    |
-| L3: Proximal algorithms         | [Link](notebooks/Lecture3.ipynb)    |
+| Session                         |            Link to material         |            Link to Colab         |
+|---------------------------------|-------------------------------------|----------------------------------|
+| Lecture 1                       | [Link](lectures/Lecture1.ipynb)     |
+| Lecture 2                       | [Link](notebooks/Lecture2.ipynb)    |
+| Lab1: FFTLinOp.ipynb            | [Link](examples/FFTLinOp.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrava87/ProximalTeaching/blob/main/examples/FFTLinOp.ipynb)  |
+| Lab2: BasisPursuit.ipynb            | [Link](examples/FFTLinOp.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyLops/mrava87/ProximalTeaching/blob/main/examples/BasisPursuit.ipynb)  |
 
 
 ## Getting started
