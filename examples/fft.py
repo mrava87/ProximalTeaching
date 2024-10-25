@@ -45,3 +45,4 @@ def FFT_memory():
     plt.semilogy(nn, mem_Fop, '.-g', label='FFTop')
     plt.legend()
     plt.title('Memory comparison')
+    plt.xlabel('Vector size')
