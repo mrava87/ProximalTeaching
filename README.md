@@ -33,3 +33,15 @@ To run the different Jupyter notebooks, participants can either use:
 
 - local Python installation (simply run ``./install_env.sh``).
 - a Cloud-hosted environment such as Google Colab. Simply make sure to upload the relevant notebooks and run the first comment cell to install missing libraries.
+
+
+## License
+
+The material in this repository is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+
